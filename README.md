@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @HarryXiao07
+- 👋 Hi, I’m @Harry
 - 👀 I’m interested in data science, fitness, and teaching
 - 🌱 I’m currently learning Data Science in Python on Udemy.
 - 💞️ I’m looking to collaborate on data analytics projects
